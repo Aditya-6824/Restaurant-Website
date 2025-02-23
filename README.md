@@ -2,6 +2,19 @@
 
 A beautifully designed **Restaurant Website** built using **HTML and CSS**. This project provides a sleek and modern interface for showcasing delicious food, browsing categories, and placing orders.
 
+## 📂 Project Structure
+```
+restaurant-website/
+│-- css/
+│   └── style.css
+│-- images/
+│-- index.html
+│-- categories.html
+│-- category-foods.html
+│-- order.html
+│-- README.md
+```
+
 ## ✨ Features
 
 ✅ **Responsive Navbar** – Easy navigation with a clean menu bar.  
@@ -19,6 +32,7 @@ A beautifully designed **Restaurant Website** built using **HTML and CSS**. This
    ```
 2. Open `index.html` in your browser.
 3. Explore the menu and order your favorite dishes!
+
 
 ## 🔧 Technologies Used
 - **HTML** – Structure of the website.
